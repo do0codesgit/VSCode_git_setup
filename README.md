@@ -28,4 +28,5 @@ Alguns vídeos para a utilização:
 
 https://www.youtube.com/watch?v=QJWP4z3FHhM
 
+https://github.com/do0codesgit/VSCode_git_setup/blob/main/Img/setup1.png
 
