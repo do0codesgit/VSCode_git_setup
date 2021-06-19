@@ -28,5 +28,9 @@ Alguns vídeos para a utilização:
 
 https://www.youtube.com/watch?v=QJWP4z3FHhM
 
+
+Com nossa conta já criada no Github, criamos um repositório de nome VSCode_Git_Setup com o arquivo README.md na pasta raíz, que é o próprio arquivo onde se encontra esse texto.
+Após a instalação do Git, com o comando gif clone, realizamos uma clonagem em uma pasta ainda vazia de nosso computador. 
+
 ![alt text](https://github.com/do0codesgit/VSCode_git_setup/blob/main/Img/setup1.png)
 
