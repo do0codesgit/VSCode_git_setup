@@ -27,3 +27,6 @@ Confiança: O uso de repositórios remotos (na nuvem) ajuda a não perder arquiv
 Alguns vídeos para a utilização:
 
 https://www.youtube.com/watch?v=QJWP4z3FHhM
+
+![Alt Text](https://github.com/{do0codesgit}/{VSCode_git_setup}/raw/{branch}/Img/setup1.png)
+
