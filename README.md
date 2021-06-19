@@ -38,6 +38,6 @@ Nesse momento o nosso projeto já está pronto para ser utilizado com o controle
 
 Criamos a pasta img e dentro dela, colocamos os screens de tela em nossa máquina local. O controle de versões identificou as mudanças e após nosso commit e publicação, nossos arquivos foram sincrinizados dentro do sistema.
 
-![alt text](https://github.com/do0codesgit/VSCode_git_setup/blob/main/Img/setup2.png)
+![alt text](https://github.com/do0codesgit/VSCode_git_setup/blob/main/Img/Setup2.png)
 
 
