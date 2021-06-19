@@ -40,4 +40,6 @@ Criamos a pasta img e dentro dela, colocamos os screens de tela em nossa máquin
 
 ![alt text](https://github.com/do0codesgit/VSCode_git_setup/blob/main/Img/Setup2.png)
 
+![alt text](https://github.com/do0codesgit/VSCode_git_setup/blob/main/Img/Setup3.png)
 
+![alt text](https://github.com/do0codesgit/VSCode_git_setup/blob/main/Img/Setup4.png)
